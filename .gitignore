@@ -1,0 +1,8 @@
+# Compiled files
+**__pycache__/
+
+# Virtual Env
+Lib/
+Scripts/
+*.cfg
+.vscode/
